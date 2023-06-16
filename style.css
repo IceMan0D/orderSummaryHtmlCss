@@ -25,7 +25,7 @@ body{
     /* justify-content: center; */
     background: url(./images/pattern-background-desktop.svg) no-repeat;
     background-size: 100%;
-    background-color: var(--Very-pale-blue);
+    background-color: var(--Pale-blue);
 } 
 
 .content { 
